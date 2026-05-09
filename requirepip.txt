@@ -1,0 +1,10 @@
+opencv-python
+pandas
+Pillow
+pydantic
+ollama
+pyzbar
+paddleocr
+paddlepaddle
+pdf2image
+openpyxl

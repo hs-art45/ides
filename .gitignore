@@ -1,0 +1,10 @@
+invoice_output.json
+.env/
+invoice_output.xlsx
+ocr_output.log
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
